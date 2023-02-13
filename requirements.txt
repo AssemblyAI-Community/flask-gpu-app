@@ -1,0 +1,8 @@
+torch>=1.4
+diffusers==0.10.2
+transformers
+scipy
+ftfy
+accelerate 
+pyngrok==4.1.1
+flask_ngrok
