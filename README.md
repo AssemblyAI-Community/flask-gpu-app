@@ -1,6 +1,9 @@
 # Flask GPU app
 
-Example app that demonstrates how to run a Flask app with a free GPU using Google Colab and ngrok
+Example app that demonstrates how to run a Flask app with a free GPU using Google Colab and ngrok.
+
+- Read the blog post: [free stable diffusion app with a gpu backend](https://www.assemblyai.com/blog/build-a-free-stable-diffusion-app-with-a-gpu-backend/)
+- Watch the YouTube tutorial: [https://youtu.be/wBCEDCiQh3Q](https://youtu.be/wBCEDCiQh3Q)
 
 ## Instructions
 
